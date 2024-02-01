@@ -1,6 +1,0 @@
-print("Ein akustisches Signal mit : (\\a)\a")
-print("\nEin Backspace mit : (\\b) | \bx\n")
-print("Ein Zeilenvorschub mit : (\\t) |\tx")
-print("\n\tC\n\ti\n\ts\n\tt\n\ttoll\n")
-print("\t u\n\t n\n\t d\n")
-print("\t macht Spaß\n")
